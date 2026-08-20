@@ -18,5 +18,5 @@ jobs:
 
 
       # Runs a single command using the runners shell
-      - name: Hello stepp
+      - name: Hello step
         run: echo "Welcome to GHA"
